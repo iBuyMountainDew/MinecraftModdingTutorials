@@ -3,7 +3,7 @@ package com.ibuymountaindew.tutorialmod.init;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.ibuymountaindew.tutorialmod.items.ItemBase;
+import com.ibuymountaindew.tutorialmod.objects.items.ItemBase;
 
 import net.minecraft.item.Item;
 
