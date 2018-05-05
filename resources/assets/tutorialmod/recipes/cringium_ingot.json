@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "C"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "tutorialmod:cringium_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tutorialmod:cringium_ingot",
+        "count": 9
+    }
+}
