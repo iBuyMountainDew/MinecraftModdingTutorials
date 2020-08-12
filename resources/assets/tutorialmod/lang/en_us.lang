@@ -1,0 +1,9 @@
+//Items
+
+item.cringium_ingot.name=Cringium Ingot
+item.example_ingot.name=Example Ingot
+
+//Blocks
+
+tile.cringium_block.name=Cringium Block
+tile.example_block.name=Example Block
